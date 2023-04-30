@@ -1,0 +1,60 @@
+body {
+  background-image: url('./images/istockphoto.jpg');
+  background-repeat: no-repeat;
+  width: 1000px;
+  height: 1000px;
+  text-align: center;
+}
+.text{
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;  
+  
+}
+h1{
+  color: red;
+}
+button{
+  background: orangered;
+  width: 100px;
+  height: 40px;
+}
+.footer{
+   color:yellowgreen;
+   text-align:center;
+}
+.new{
+  background-image: url('./images/stcakphoto.jpg');
+  background-repeat: no-repeat;
+
+}
+h2{
+  color: orange;
+}
+.butonleft{
+text-align: center;
+}
+.review{
+  background: orangered;
+}
+.inptext{
+  text-align: right;
+}
+.inptext button{
+ background: greenyellow;
+ 
+}
+.review h2{
+  text-align: left;
+  color: white;
+}
+h4{
+  text-align: left;
+  color: white;
+}
+h4 button{
+  text-align: center;
+  background-color: white;
+}
